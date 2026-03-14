@@ -1,0 +1,9 @@
+# Node.js
+node_modules/
+*.log
+*.env
+
+# Build artifacts
+/dist/
+/build/
+/*.tgz
